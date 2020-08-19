@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KenoPro", "KenoPro.vcproj", "{C768CA11-EC26-438D-A4B7-BAF752F43CAF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C768CA11-EC26-438D-A4B7-BAF752F43CAF}.Debug.ActiveCfg = Debug|Win32
+		{C768CA11-EC26-438D-A4B7-BAF752F43CAF}.Debug.Build.0 = Debug|Win32
+		{C768CA11-EC26-438D-A4B7-BAF752F43CAF}.Release.ActiveCfg = Release|Win32
+		{C768CA11-EC26-438D-A4B7-BAF752F43CAF}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

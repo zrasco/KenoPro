@@ -1,0 +1,5 @@
+- Ticket frames(purple, red, etc...)
+- Player's choice labels(190 way 8(Up/Down), 120 way 10, etc...)
+- Fonts for scrolling text, and straight ticket info
+- Ticket markings for special tickets(T, O, E, L, R, etc....)
+- Labels for special ticket(Top or Bottom, Left or Right, etc...)
